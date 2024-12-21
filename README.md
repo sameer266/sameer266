@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Sameer
 
-Welcome to my GitHub profile! I'm passionate about software development, cybersecurity, and creating innovative solutions. Feel free to explore my repositories and connect with me.
-
+Welcome to my GitHub profile! I’m Sameer, a software developer and cybersecurity enthusiast. I specialize in building secure, high-performance web applications. Check out my repositories and let’s connect if you’re looking to collaborate or chat about tech!
 ---
 
 ## 🔗 Connect with Me
