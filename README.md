@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sameer
 
-Welcome to my GitHub profile! I'm passionate about technology, cybersecurity, and creating innovative solutions. Feel free to explore my repositories and connect with me.
+Welcome to my GitHub profile! I'm passionate about software development, cybersecurity, and creating innovative solutions. Feel free to explore my repositories and connect with me.
 
 ---
 
@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology, cybersecurity, an
 - 🌐 **Website**: [sameerbaiju.com.np](https://sameerbaiju.com.np)
 - 💼 **LinkedIn**: [Sameer Baiju](https://www.linkedin.com/in/sameer-baiju-7a3054240/)
 - 📧 **Email**: [sameerbaiju792@gmail.com](mailto:sameerbaiju792@gmail.com)
+- 🐙 **GitHub**: [Sameer's GitHub](https://github.com/sameer266)
 
 ---
 
@@ -34,6 +35,8 @@ Welcome to my GitHub profile! I'm passionate about technology, cybersecurity, an
 
 ## 🌱 What I'm Currently Learning
 
+- Advanced Backend Development
+- Flutter Development
 - Advanced Cybersecurity Techniques
 - Cloud Security
 - ![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=flat&logo=azurepipelines&logoColor=white) and CI/CD
