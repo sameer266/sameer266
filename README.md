@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Sameer
 
-![Profile Picture](https://www.sameerbaiju.com.np/img/sameer1.jpg)
+
 
 Welcome to my GitHub profile! I’m Sameer, a software developer and cybersecurity enthusiast. I specialize in building secure, high-performance web applications. Check out my repositories and let’s collaborate!
 
