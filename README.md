@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a **software developer** and **cybersecurity e
 - **React.js** ⚛️ | **JavaScript (ES6+)** 📜 | **API Handling** 🔗
 
 ### **Back-End Development**  
-- **Django** 🐍 | **DRF (Django REST Framework)** 🛠️ | **JWT** 🔐 | **OAuth** 🔑  
+- **Node.js** 🌳 | **Django** 🐍 | **DRF (Django REST Framework)** 🛠️ | **JWT** 🔐 | **OAuth** 🔑  
 - **Session/Cookie Management** 🍪 | **WebSockets** ⚡
 
 ### **Deployment & Hosting**  
@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I'm a **software developer** and **cybersecurity e
 - **Developed responsive, cross-device compatible websites** to enhance user experience and accessibility.  
 - **Implemented WebSocket-based real-time communication features**, improving user interactivity and engagement.  
 - **Leveraged React.js and Tailwind CSS** for seamless front-end development and modern UI design frameworks.  
-- **Designed and secured back-end solutions using Django**, incorporating JWT and OAuth for secure authentication and authorization.  
+- **Designed and secured back-end solutions using Django and Node.js**, incorporating JWT and OAuth for secure authentication and authorization.  
 - **Optimized PostgreSQL and MySQL databases**, ensuring robust data integrity, performance, and scalability.
 
 ---
@@ -70,7 +70,7 @@ Welcome to my GitHub profile! I'm a **software developer** and **cybersecurity e
 
 ## 🚀 Let's Connect!
 
-With a comprehensive approach to **full-stack development**, I help create **visually appealing** and **high-performing web applications** tailored to your needs. Whether it's real-time communication with **WebSockets** or secure, scalable **back-end development** with **Django**, I'm ready to contribute to your project's success.
+With a comprehensive approach to **full-stack development**, I help create **visually appealing** and **high-performing web applications** tailored to your needs. Whether it's real-time communication with **WebSockets** or secure, scalable **back-end development** with **Node.js** and **Django**, I'm ready to contribute to your project's success.
 
 Feel free to reach out or collaborate on exciting projects. Let's build something amazing together! 🚀
 
