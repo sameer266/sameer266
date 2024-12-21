@@ -1,8 +1,6 @@
-# Hi there! 👋 I'm Sameer
+# 👋 Hi there! I'm Sameer
 
-
-
-Welcome to my GitHub profile! I’m Sameer, a software developer and cybersecurity enthusiast. I specialize in building secure, high-performance web applications. Check out my repositories and let’s collaborate!
+Welcome to my GitHub profile! I'm a **software developer** and **cybersecurity enthusiast**. I specialize in building **secure**, **high-performance web applications**. Check out my repositories and let's collaborate on innovative projects!
 
 ---
 
@@ -23,26 +21,57 @@ Welcome to my GitHub profile! I’m Sameer, a software developer and cybersecuri
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Key Skills
 
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white) 
-- **Frameworks & APIs**: ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Django REST](https://img.shields.io/badge/Django%20REST-092E20?style=flat&logo=django&logoColor=white) 
-- **Specialization**: ![Cybersecurity](https://img.shields.io/badge/Security-FF0000?style=flat&logo=protonvpn&logoColor=white) ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-000000?style=flat&logo=protonvpn&logoColor=white) 
-- **Backend Development**: ![Backend](https://img.shields.io/badge/Backend-0078D4?style=flat&logo=backendless&logoColor=white) ![Authentication](https://img.shields.io/badge/Auth-00C7B7?style=flat&logo=auth0&logoColor=white) 
-- **Frontend Tools**: ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white) 
-- **DevOps**: ![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=flat&logo=azurepipelines&logoColor=white)
+### **Front-End Development**  
+- **HTML** 🌐 | **CSS** 🎨 | **Tailwind CSS** ⚡ | **UI/UX Design** ✨  
+- **React.js** ⚛️ | **JavaScript (ES6+)** 📜 | **API Handling** 🔗
+
+### **Back-End Development**  
+- **Django** 🐍 | **DRF (Django REST Framework)** 🛠️ | **JWT** 🔐 | **OAuth** 🔑  
+- **Session/Cookie Management** 🍪 | **WebSockets** ⚡
+
+### **Deployment & Hosting**  
+- **Vercel** 🚀 | **Linux** 🐧 | **Apache** 🌐 | **Nginx** 🔄
+
+### **Cybersecurity Tools**  
+- **Nmap** 🕵️‍♂️ | **Burp Suite** 🛡️ | **Metasploit** 💣 | **Nessus** 🔍 | **Wireshark** 🐟
+
+### **Database Management**  
+- **PostgreSQL** 🗄️ | **MySQL** 🛢️
+
+### **Version Control**  
+- **Git** 🧑‍💻 | **GitHub** 🐙
+
+### **Methodologies**  
+- **Agile** 📈 | **Cross-Functional Team Collaboration** 🤝
+
+---
+
+## 💼 Experience Highlights
+
+- **Developed responsive, cross-device compatible websites** to enhance user experience and accessibility.  
+- **Implemented WebSocket-based real-time communication features**, improving user interactivity and engagement.  
+- **Leveraged React.js and Tailwind CSS** for seamless front-end development and modern UI design frameworks.  
+- **Designed and secured back-end solutions using Django**, incorporating JWT and OAuth for secure authentication and authorization.  
+- **Optimized PostgreSQL and MySQL databases**, ensuring robust data integrity, performance, and scalability.
 
 ---
 
 ## 🌱 What I'm Currently Learning
 
-- Advanced Backend Development
-- Flutter Development
-- Advanced Cybersecurity Techniques
-- Cloud Security
-- ![DevOps](https://img.shields.io/badge/DevOps-0078D4?style=flat&logo=azurepipelines&logoColor=white) and CI/CD
+- Advanced **Backend Development** 🔧
+- **Flutter Development** 📱
+- Advanced **Cybersecurity Techniques** 🔐
+- **Cloud Security** ☁️
+- **DevOps** and **CI/CD** ⚙️
 
+---
 
+## 🚀 Let's Connect!
 
-Feel free to reach out or collaborate on projects. Let's build something amazing together!
+With a comprehensive approach to **full-stack development**, I help create **visually appealing** and **high-performing web applications** tailored to your needs. Whether it's real-time communication with **WebSockets** or secure, scalable **back-end development** with **Django**, I'm ready to contribute to your project's success.
+
+Feel free to reach out or collaborate on exciting projects. Let's build something amazing together! 🚀
+
+---
