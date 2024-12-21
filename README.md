@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about software development, cyberse
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=radical)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabine567uyhgyu7s-projects&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=radical)
 
 ---
 
