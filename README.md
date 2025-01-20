@@ -2,7 +2,7 @@
 
 ![Coding](https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif)
 
-Welcome to my GitHub profile! I'm a **software developer** and **cybersecurity enthusiast**. I specialize in building **secure**, **high-performance web applications**. Check out my repositories and let's collaborate on innovative projects!
+Welcome to my GitHub profile! I'm a **software developer** ,**ML** and  **cybersecurity enthusiast**. I specialize in building **secure**, **high-performance web applications**. Check out my repositories and let's collaborate on innovative projects!
 
 ---
 
