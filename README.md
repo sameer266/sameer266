@@ -52,5 +52,4 @@ Welcome to my GitHub profile! I'm a **software developer** ,**ML** and  **cybers
 
 ## 🚀 Let's Connect!
 
-![Work in Progress](https://i.imgur.com/2ltGswC.gif)  
 *(Let's build something amazing together!)*
