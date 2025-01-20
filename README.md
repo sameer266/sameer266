@@ -31,11 +31,13 @@ Welcome to my GitHub profile! I'm a **software developer** ,**ML** and  **cybers
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&style=flat-square&logo=tailwind-css&logoColor=white)
 
+
 ### **Back-End Development**  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white)  
-
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)  
+![Gherkin](https://img.shields.io/badge/Gherkin-%2338B2AC.svg?&style=flat-square&logo=cucumber&logoColor=white)  
 ---
 
 ## 🌱 What I'm Currently Learning
