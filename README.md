@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Sameer
 
-![Coding](https://i.imgur.com/LkAVkVj.gif)  
+![Coding]([https://i.imgur.com/LkAVkVj.gif](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg))  
 *(Small coding animation to set the theme)*
 
 Welcome to my GitHub profile! I'm a **software developer** and **cybersecurity enthusiast**. I specialize in building **secure**, **high-performance web applications**. Check out my repositories and let's collaborate on innovative projects!
