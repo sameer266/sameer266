@@ -34,10 +34,12 @@ Welcome to my GitHub profile! I'm a **software developer** ,**ML** and  **cybers
 
 ### **Back-End Development**  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=flat-square&logo=django&logoColor=white)  
+![Django REST Framework](https://img.shields.io/badge/DRF-%23EF4035.svg?&style=flat-square&logo=django&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=flat-square&logo=docker&logoColor=white)  
 ![Gherkin](https://img.shields.io/badge/Gherkin-%2338B2AC.svg?&style=flat-square&logo=cucumber&logoColor=white)  
+
 ---
 
 ## 🌱 What I'm Currently Learning
