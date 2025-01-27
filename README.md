@@ -1,4 +1,3 @@
-Your GitHub README is already quite impressive, but here are some suggestions to make it even more engaging, professional, and visually appealing:
 
 ---
 
@@ -66,7 +65,7 @@ Welcome to my GitHub profile! I'm a **software developer**, **machine learning e
 I'm always open to collaborating on exciting projects. Whether it's **web development**, **machine learning**, or **cybersecurity**, let's connect and create something impactful!  
 
 📧 **Reach out**: [sameerbaiju792@gmail.com](mailto:sameerbaiju792@gmail.com)  
-💬 **Let's chat**: [Schedule a Meeting](https://calendly.com/sameerbaiju) *(optional, if you use Calendly or similar tools)*  
+💬 **Let's chat**: [Schedule a Meeting](https://calendly.com/sameerbaiju) 
 
 ---
 
