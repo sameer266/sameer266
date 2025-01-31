@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a **software developer**, **machine learning e
 ![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=radical&hide_border=true)  
 
----
+
 
 ## 🛠️ Key Skills
 
@@ -47,7 +47,6 @@ Welcome to my GitHub profile! I'm a **software developer**, **machine learning e
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=flat-square&logo=linux&logoColor=black)  
 
----
 
 ## 🌱 What I'm Currently Learning
 
