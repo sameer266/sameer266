@@ -20,8 +20,11 @@ Welcome to my GitHub profile! I'm a **software developer**, **machine learning e
 ---
 
 ## 🌟 GitHub Stats
-![Sameer's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sameer266&show_icons=true&theme=radical)
+
+![Sameer's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sameer266&show_icons=true&theme=radical) 
+
 ![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=radical)
+
 
 ## 🛠️ Key Skills
 
