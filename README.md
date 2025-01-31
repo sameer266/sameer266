@@ -21,10 +21,9 @@ Welcome to my GitHub profile! I'm a **software developer**, **machine learning e
 
 ## 🌟 GitHub Stats
 
-![Sameer's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=sameer266&show_icons=true&theme=radical) 
+![Sameer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
 
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=radical&hide_border=true)  
 
 ## 🛠️ Key Skills
 
@@ -65,6 +64,8 @@ I'm always open to collaborating on exciting projects. Whether it's **web develo
 
 📧 **Reach out**: [sameerbaiju792@gmail.com](mailto:sameerbaiju792@gmail.com)
 💬 **Let's chat**: [Schedule a Meeting](https://calendly.com/sameerbaiju)
+    **website** [](https://sameerbaiju.com.np)
+
 
 ---
 
