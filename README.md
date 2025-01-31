@@ -64,7 +64,7 @@ I'm always open to collaborating on exciting projects. Whether it's **web develo
 
 📧 **Reach out**: [sameerbaiju792@gmail.com](mailto:sameerbaiju792@gmail.com)
 💬 **Let's chat**: [Schedule a Meeting](https://calendly.com/sameerbaiju)
-    **website** [](https://sameerbaiju.com.np)
+    **Profile**: [website](https://sameerbaiju.com.np)
 
 
 ---
