@@ -1,6 +1,4 @@
-Here is the corrected README.md content:
 
----
 
 # 👋 Hi there! I'm Sameer
 
