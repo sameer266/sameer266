@@ -1,11 +1,11 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World, I'm Sameer
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="100%" alt="Developer Animation">
+  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%" alt="Modern Developer Animation">
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&width=535&lines=Software+Developer;Machine+Learning+Enthusiast;Cybersecurity+Advocate;Problem+Solver;Continuous+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&width=535&lines=Software+Developer;Machine+Learning+Enthusiast;Cybersecurity+Advocate;Network+Engineer;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
 I'm a passionate **full-stack developer** with a love for creating secure, scalable solutions. My journey in technology is driven by curiosity and a commitment to excellence.
@@ -18,15 +18,17 @@ I'm a passionate **full-stack developer** with a love for creating secure, scala
 const sameer = {
   location: "Nepal",
   education: "Computer Engineering",
-  fields: ["Software Development", "Machine Learning", "Cybersecurity"],
+  fields: ["Software Development", "Machine Learning", "Cybersecurity", "Networking"],
   currentFocus: "Creating robust & secure applications",
   funFact: "I debug with a cup of coffee next to me - it's my rubber duck!"
 };
 ```
 
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
-- 🌱 Currently learning **Advanced Backend Architecture** and **Flutter**
+- 🌱 Currently learning **Advanced Backend Architecture**, **Flutter** and **Network Engineering**
+- 🤖 Exploring **Machine Learning** and **Artificial Intelligence** applications
+- 🔐 Developing skills in **Network Security** and **System Architecture**
 - 💬 Ask me about **Django**, **React**, and **Cybersecurity Practices**
 - 🚀 Working on enhancing my **DevOps** skillset
 - 📫 Reach me at: **sameerbaiju792@gmail.com**
@@ -53,13 +55,21 @@ const sameer = {
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   
   ### 🗄️ Databases & Cloud
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  
+  ### 🔐 Networking & Security
+  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
   
   ### 🛠️ Tools & Platforms
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -91,112 +101,52 @@ const sameer = {
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-### 1. Portfolio Website
-<img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="200px" align="left" alt="Web Development">
-
-**[Portfolio Project](https://github.com/sameer266/portfolio-website)**
-
-A responsive portfolio website showcasing my skills and projects. Built with **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap**.
-
-**Features:**
-- Responsive design for all devices
-- Interactive UI elements
-- Project showcase with filterable gallery
-- Contact form with email integration
-
-<br clear="left"/>
-
----
-
-### 2. College-Project-TFC (The Food Court)
-<img src="https://user-images.githubusercontent.com/74038190/216815827-52a7c1f6-7d72-4e6c-96ec-df9b3ce331b7.gif" width="200px" align="right" alt="Restaurant App">
-
-**[The Food Court Project](https://github.com/sameer266/College-Project-TFC-)**
-
-A comprehensive restaurant management system developed as a college project. Built with **Django**, **HTML5**, **CSS3**, and **JavaScript**.
-
-**Features:**
-- Online food ordering system
-- User authentication and profiles
-- Cart and checkout functionality
-- Admin dashboard for menu management
-- Order tracking and status updates
-
-<br clear="right"/>
-
----
-
-### 3. Book Finder App
-<img src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png" width="200px" align="left" alt="Book Finder">
-
-**[Book Finder](https://github.com/sameer266/Book-Finder-React-)**
-
-A React application that helps users find books using the Google Books API. Built with **React**, **CSS3**, and **JavaScript**.
-
-**Features:**
-- Search books by title, author, or ISBN
-- Display book details and cover images
-- Save favorite books for later reference
-- Responsive design for mobile and desktop
-- Clean, intuitive user interface
-
-<br clear="left"/>
-
----
-
-### 4. Machine Learning Text Summarizer
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="200px" align="right" alt="ML Project">
-
-**[Text Summarizer](https://github.com/sameer266/Text-Summarizer-)**
-
-An NLP-based text summarization tool that creates concise summaries of long articles. Built with **Python**, **Flask**, and **NLTK**.
-
-**Features:**
-- Extractive summarization techniques
-- Adjustable summary length
-- Support for multiple languages
-- Web interface for easy use
-- API for integration with other applications
-
-<br clear="right"/>
-
----
-
-### 5. Weather App
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200px" align="left" alt="Weather App">
-
-**[Weather Application](https://github.com/sameer266/Django-weather-app)**
-
-A Django-based weather application that provides current weather conditions and forecasts. Built with **Django**, **Python**, and **OpenWeatherMap API**.
-
-**Features:**
-- Current weather conditions
-- 5-day weather forecast
-- Location-based weather data
-- Search for weather by city
-- Responsive design for all devices
-
-<br clear="left"/>
-
-</div>
-
----
-
 ## 🌟 Current Learning Journey
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="280px" alt="Learning Journey">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px" alt="Learning Journey">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="80px" alt="AI">
+        <br /><strong>AI & ML</strong>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="80px" alt="Flutter">
+        <br /><strong>Flutter</strong>
+      </td>
+      <td align="center">
+        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80px" alt="DevOps">
+        <br /><strong>DevOps</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80px" alt="Network">
+        <br /><strong>Networking</strong>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80px" alt="Security">
+        <br /><strong>Cybersecurity</strong>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80px" alt="Cloud">
+        <br /><strong>Cloud</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 - 📱 **Flutter Development** for cross-platform mobile applications
 - 🔐 **Advanced Cybersecurity** techniques and penetration testing
+- 🌐 **Network Engineering** with focus on architecture and security
 - ⚙️ **DevOps & CI/CD** pipelines with Jenkins and GitHub Actions
-- 🤖 **Machine Learning** with TensorFlow and PyTorch
-- 🌐 **Microservices Architecture** for scalable applications
+- 🤖 **Machine Learning & AI** with TensorFlow and PyTorch
+- ☁️ **Cloud Infrastructure** design and deployment
+- 🔄 **Microservices Architecture** for scalable applications
 
 ---
 
@@ -218,7 +168,7 @@ A Django-based weather application that provides current weather conditions and 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="280px" alt="Thanks for visiting">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300px" alt="Thanks for visiting">
   <br>
   <img src="https://komarev.com/ghpvc/?username=sameer266&style=for-the-badge&color=6C63FF" alt="Profile views">
 </div>
