@@ -1,7 +1,7 @@
 # <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x1aTIyZDJtZG4xajEzcTg4YWpjaGt3eXJ5a3BxZHFpNXVwbzQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="30px"> Hello World, I'm Sameer
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="100%" alt="Modern Developer Animation">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2x1aTIyZDJtZG4xajEzcTg4YWpjaGt3eXJ5a3BxZHFpNXVwbzQ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100%" alt="Modern Developer Animation">
 </div>
 
 <p align="center">
