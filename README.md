@@ -1,7 +1,7 @@
 # <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRlenlraWlmYTNwazZ1Mm10ZGJ6N2I2NTZ1d2xqZjhraGxmOXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="40px"> Hello World, I'm Sameer
 
 <div align="center">
-  <img src="https://img.freepik.com/premium-photo/boy-is-working-laptop-with-word-i-m-working-it_978914-24388.jpg?semt=ais_hybrid&w=740" width="60%;border-radius="10px" alt="Modern Developer Animation">
+  <img src="https://img.freepik.com/premium-photo/boy-is-working-laptop-with-word-i-m-working-it_978914-24388.jpg?semt=ais_hybrid&w=740" width="50%;border-radius="20px" alt="Modern Developer Animation">
 </div>
 
 <p align="center">
