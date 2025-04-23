@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&width=535&lines=Software+Developer;Machine+Learning+Enthusiast;Cybersecurity+Advocate;Network+Engineer;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&width=535&lines=Software+Developer;Machine+Learning+Enthusiast;Cybersecurity;Networking+;Problem+Solver" alt="Typing SVG" /></a>
 </p>
 
 I'm a passionate **full-stack developer** with a love for creating secure, scalable solutions. My journey in technology is driven by curiosity and a commitment to excellence.
