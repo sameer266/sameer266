@@ -6,7 +6,6 @@
   style="width: 50%; border-radius: 20px;" 
   alt="Modern Developer Animation"
 />
-
 </div>
 
 <p align="center">
