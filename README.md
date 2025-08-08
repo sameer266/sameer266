@@ -16,7 +16,7 @@ I'm a passionate **full-stack developer** with a love for creating secure, scala
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```javascript
 const sameer = {
@@ -30,21 +30,21 @@ const sameer = {
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
 
-- 🌱 Currently learning **Advanced Backend Architecture**, **Flutter** and **Network Engineering**
-- 🤖 Exploring **Machine Learning** and **Artificial Intelligence** applications
-- 🔐 Developing skills in **Network Security** and **System Architecture**
-- 💬 Ask me about **Django**, **React**, and **Cybersecurity Practices**
-- 🚀 Working on enhancing my **DevOps** skillset
-- 📫 Reach me at: **sameerbaiju792@gmail.com**
-- ⚡ I believe in **learning by building**
+-  Currently learning **Advanced Backend Architecture**, **Flutter** and **Network Engineering**
+-  Exploring **Machine Learning** and **Artificial Intelligence** applications
+-  Developing skills in **Network Security** and **System Architecture**
+-  Ask me about **Django**, **React**, and **Cybersecurity Practices**
+-  Working on enhancing my **DevOps** skillset
+-  Reach me at: **sameerbaiju792@gmail.com**
+-  I believe in **learning by building**
 
 ---
 
-## 🛠️ My Tech Stack
+##  My Tech Stack
 
 <div align="center">
   
-  ### 💻 Languages
+  ###  Languages
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,7 +52,7 @@ const sameer = {
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
   
-  ### 🚀 Frameworks & Libraries
+  ###  Frameworks & Libraries
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
   ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -62,20 +62,20 @@ const sameer = {
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   
-  ### 🗄️ Databases & Cloud
+  ###  Databases & Cloud
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   
-  ### 🔐 Networking & Security
+  ###  Networking & Security
   ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
   
-  ### 🛠️ Tools & Platforms
+  ###  Tools & Platforms
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
