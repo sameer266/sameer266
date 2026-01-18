@@ -1,96 +1,130 @@
-# <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRlenlraWlmYTNwazZ1Mm10ZGJ6N2I2NTZ1d2xqZjhraGxmOXU2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" width="40px"> Hello World, I'm Sameer
-
 <div align="center">
-<img 
-  src="https://img.freepik.com/premium-photo/boy-is-working-laptop-with-word-i-m-working-it_978914-24388.jpg?semt=ais_hybrid&w=740" 
-  style="width: 50%; border-radius: 20px;" 
-  alt="Modern Developer Animation"
-/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Hi%20there,%20I'm%20Sameer&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&width=535&lines=Software+Developer;Machine+Learning+Enthusiast;Cybersecurity;Networking+;Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=535&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Machine+Learning+Explorer;Red+Team+Practitioner;Software+Architect" alt="Typing SVG" /></a>
 </p>
-
-I'm a passionate **full-stack developer** with a love for creating secure, scalable solutions. My journey in technology is driven by curiosity and a commitment to excellence.
-
----
-
-##  About Me
-
-```javascript
-const sameer = {
-  location: "Nepal",
-  education: "Computer Science",
-  fields: ["Software Development", "Machine Learning", "Cybersecurity", "Networking"],
-  currentFocus: "Creating robust & secure applications",
-  funFact: "I debug with a cup of coffee next to me - it's my rubber duck!"
-};
-```
-
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif">
-
--  Currently learning **Advanced Backend Architecture**, **Flutter** and **Network Engineering**
--  Exploring **Machine Learning** and **Artificial Intelligence** applications
--  Developing skills in **Network Security** and **System Architecture**
--  Ask me about **Django**, **React**, and **Cybersecurity Practices**
--  Working on enhancing my **DevOps** skillset
--  Reach me at: **sameerbaiju792@gmail.com**
--  I believe in **learning by building**
-
----
-
-##  My Tech Stack
 
 <div align="center">
   
-  ###  Languages
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  [![Website](https://img.shields.io/badge/Website-sameerbaiju.com.np-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sameerbaiju.com.np)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-baiju-7a3054240/)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerbaiju792@gmail.com)
   
-  ###  Frameworks & Libraries
-  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  
-  ###  Databases & Cloud
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  
-  ###  Networking & Security
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-  
-  ###  Tools & Platforms
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
 ---
 
-##  GitHub Analytics
+## 👨‍💻 About Me
+
+```javascript
+const sameer = {
+  location: "Nepal 🇳🇵",
+  education: "Computer Science",
+  role: "Full-Stack Developer",
+  interests: ["Web Development", "Cybersecurity", "ML/AI", "System Design"],
+  currentFocus: "Building secure, scalable applications",
+  motto: "Code with purpose, secure by design"
+};
+```
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🎯 What I Do
+
+- 🔨 Building production-ready web applications with **Django** & **React**
+- 🤖 Exploring **LangChain** and AI-powered applications
+- 🔐 Practicing **red team operations** and penetration testing
+- 🏗️ Designing **software architectures** that scale
+- 🌐 Learning **network engineering** and infrastructure
+- 📱 Developing cross-platform apps with **Flutter**
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="Sameer's GitHub Stats" />
-  
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Security & Networking
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 🔐 Security & Architecture Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### Red Team Operations
+- Penetration testing methodologies
+- Vulnerability assessment & exploitation
+- Web application security testing
+- Network reconnaissance & enumeration
+- Social engineering awareness
+
+</td>
+<td width="50%">
+
+### Software Architecture
+- Microservices design patterns
+- RESTful API architecture
+- Database design & optimization
+- Scalable system design
+- Clean code principles
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=tokyonight&border_radius=15" alt="Top Languages" />
 </div>
 
@@ -98,84 +132,79 @@ const sameer = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer266&theme=tokyonight&border_radius=15" alt="GitHub Streak" />
 </div>
 
-<!-- Animated commit calendar -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer266&theme=tokyonight" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer266&theme=tokyonight" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
 
-##  Current Learning Journey
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px" alt="Learning Journey">
-</div>
+## 🌱 Current Learning Path
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" width="80px" alt="AI">
-        <br /><strong>AI & ML</strong>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px" />
+        <br /><sub><b>Flutter Dev</b></sub>
       </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" width="80px" alt="Flutter">
-        <br /><strong>Flutter</strong>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60px" />
+        <br /><sub><b>Cloud/DevOps</b></sub>
       </td>
-      <td align="center">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80px" alt="DevOps">
-        <br /><strong>DevOps</strong>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="60px" />
+        <br /><sub><b>Red Teaming</b></sub>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80px" alt="Network">
-        <br /><strong>Networking</strong>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60px" />
+        <br /><sub><b>Networking</b></sub>
       </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="80px" alt="Security">
-        <br /><strong>Cybersecurity</strong>
-      </td>
-      <td align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80px" alt="Cloud">
-        <br /><strong>Cloud</strong>
+      <td align="center" width="20%">
+        <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="60px" />
+        <br /><sub><b>AI/ML</b></sub>
       </td>
     </tr>
   </table>
 </div>
 
-- 📱 **Flutter Development** for cross-platform mobile applications
-- 🔐 **Advanced Cybersecurity** techniques and penetration testing
-- 🌐 **Network Engineering** with focus on architecture and security
-- ⚙️ **DevOps & CI/CD** pipelines with Jenkins and GitHub Actions
-- 🤖 **Machine Learning & AI** with TensorFlow and PyTorch
-- ☁️ **Cloud Infrastructure** design and deployment
-- 🔄 **Microservices Architecture** for scalable applications
+**Currently exploring:**
+- 🔗 LangChain for building intelligent applications
+- 🏗️ Advanced software design patterns and architecture
+- 🛡️ Offensive security techniques and OSCP preparation
+- 📱 Flutter for cross-platform mobile development
+- ⚙️ CI/CD pipelines and infrastructure automation
 
 ---
 
-## Connect With Me
+## 💡 Featured Projects
+
+Coming soon! Currently working on some exciting projects involving:
+- 🤖 AI-powered chatbot using LangChain
+- 🔐 Security vulnerability scanner
+- 🌐 Full-stack e-commerce platform
+- 📊 Real-time analytics dashboard
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
-  <a href="https://sameerbaiju.com.np" target="_blank">
-    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sameer-baiju-7a3054240/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sameerbaiju792@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/sameer266" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  
+I'm always interested in collaborating on interesting projects, discussing tech and security, or just having a good conversation about code!
+
+**Feel free to reach out:**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sameerbaiju.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-baiju-7a3054240/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerbaiju792@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sameer266&style=for-the-badge&color=6C63FF)
+
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300px" alt="Thanks for visiting">
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=sameer266&style=for-the-badge&color=6C63FF" alt="Profile views">
-</div>
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
