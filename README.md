@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=535&lines=Software+Developer;Full-Stack+Engineer;Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=535&lines=Software+Developer;Full-Stack+Engineer;Cybersecurity+Enthusiast;ML+AI+Enthusiast;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -56,28 +56,36 @@ Right now, I'm exploring AI applications with LangChain, sharpening my red team 
 
 <div align="center">
 
-### 💼 Core Expertise
+## 💼 Core Expertise
 
-```mermaid
-mindmap
-  root((Sameer))
-    Full Stack Development
-      Django & React
-      Flutter Mobile Apps
-      RESTful APIs
-    Security
-      Red Teaming
-      Penetration Testing
-      Security Analysis
-    System Design
-      Microservices
-      Distributed Systems
-      Clean Architecture
-    Networking
-      Cisco Technologies
-      Network Security
-      Infrastructure
-```
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="80px" alt="Development"/>
+<br/>
+<h3>Full-Stack Development</h3>
+<p>Django • React<br/>Flutter • RESTful APIs<br/>Microservices</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/security-checked.png" width="80px" alt="Security"/>
+<br/>
+<h3>Security</h3>
+<p>Red Teaming<br/>Penetration Testing<br/>Vulnerability Assessment</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/module.png" width="80px" alt="Architecture"/>
+<br/>
+<h3>System Design</h3>
+<p>Microservices<br/>Distributed Systems<br/>Clean Architecture</p>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/ethernet-on.png" width="80px" alt="Networking"/>
+<br/>
+<h3>Networking</h3>
+<p>Cisco Technologies<br/>Network Security<br/>Infrastructure Design</p>
+</td>
+</tr>
+</table>
 
 </div>
 
