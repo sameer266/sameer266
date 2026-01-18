@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=535&lines=Building+things+that+matter;Breaking+things+to+make+them+stronger;Learning+something+new+every+day" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=535&lines=Software+Developer;Full-Stack+Engineer;Cybersecurity+Enthusiast;Building+Secure+%26+Scalable+Systems" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -14,34 +14,72 @@
   
 </div>
 
+<br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
 ---
 
 ## 🚀 A Bit About Me
 
-I'm a developer from Nepal who's fascinated by the intersection of building and breaking software. By day, I'm crafting full-stack applications with Django and React. By night, I'm exploring how to make them more secure (and occasionally, how to break them responsibly).
+I'm a software developer from Nepal who's passionate about building robust, scalable systems and understanding how they can be secured. I work across the full stack with Django and React, develop cross-platform mobile apps with Flutter, and dive deep into system design and network architecture.
 
-Right now, I'm deep into AI applications with LangChain, sharpening my red team skills, and figuring out how to design systems that actually scale. I believe the best code is secure by design, not as an afterthought.
+Right now, I'm exploring AI applications with LangChain, sharpening my red team skills, and learning network engineering from the ground up. I believe great software is a combination of clean architecture, solid security, and scalable design.
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### What keeps me busy:
 
 **Building stuff:**
-- Production web apps with Django & React
-- AI-powered tools using LangChain and modern LLMs
-- Cross-platform mobile apps with Flutter
-- Systems that don't fall over under pressure
+- Full-stack web applications with Django & React
+- Cross-platform mobile apps using Flutter
+- AI-powered tools with LangChain and LLMs
+- Scalable systems with microservices architecture
+- Network infrastructure and design
 
 **Breaking stuff (ethically):**
 - Red team operations and penetration testing
-- Finding vulnerabilities before the bad guys do
+- Finding vulnerabilities before attackers do
 - Security assessments and threat modeling
+- Network security analysis
 
-**Learning stuff:**
-- Software architecture patterns that actually work
-- Network engineering and infrastructure
-- ML/AI implementations beyond the tutorials
-- How to write code that my future self won't hate
+**Designing stuff:**
+- System architecture that scales
+- Database schemas that perform
+- APIs that make sense
+- Network topologies that work
+- Clean, maintainable code that lasts
+
+---
+
+<div align="center">
+
+### 💼 Core Expertise
+
+```mermaid
+mindmap
+  root((Sameer))
+    Full Stack Development
+      Django & React
+      Flutter Mobile Apps
+      RESTful APIs
+    Security
+      Red Teaming
+      Penetration Testing
+      Security Analysis
+    System Design
+      Microservices
+      Distributed Systems
+      Clean Architecture
+    Networking
+      Cisco Technologies
+      Network Security
+      Infrastructure
+```
+
+</div>
 
 ---
 
@@ -52,12 +90,14 @@ Right now, I'm deep into AI applications with LangChain, sharpening my red team 
 ### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Web Development
+### Web & Mobile Development
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -73,10 +113,11 @@ Right now, I'm deep into AI applications with LangChain, sharpening my red team 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Security Arsenal
+### Security & Networking
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -92,26 +133,38 @@ Right now, I'm deep into AI applications with LangChain, sharpening my red team 
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🔐 Security Side
-Getting hands-on with offensive security techniques and working toward OSCP. I'm practicing:
-- Penetration testing methodologies
-- Web application security
+### 🔐 Security
+Getting hands-on with offensive security and working toward OSCP:
+- Penetration testing
+- Web app security
 - Network reconnaissance
 - Vulnerability assessment
-- Writing exploits (the legal kind)
+- Exploit development
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🏗️ Architecture Side
-Learning how to design systems that don't just work, but work well:
-- Microservices patterns
+### 🏗️ System Design
+Building systems that scale and last:
+- Microservices architecture
 - RESTful API design
 - Database optimization
-- Scalable system architecture
-- Clean, maintainable code
+- Distributed systems
+- Design patterns
+- Clean architecture
+
+</td>
+<td width="33%" valign="top">
+
+### 🌐 Networking
+Deep diving into network engineering:
+- Network protocols (TCP/IP, DNS, HTTP)
+- Cisco networking
+- Network security
+- Infrastructure design
+- Network troubleshooting
 
 </td>
 </tr>
@@ -129,6 +182,12 @@ Learning how to design systems that don't just work, but work well:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer266&theme=tokyonight&border_radius=15" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sameer266&theme=tokyonight" width="100%" alt="Contribution Graph" />
+</div>
+
+<br/>
 
 ---
 
@@ -162,11 +221,12 @@ Learning how to design systems that don't just work, but work well:
 </div>
 
 **On my learning list:**
-- Building smarter apps with LangChain and AI
-- Advanced software design patterns
-- OSCP preparation and offensive security
-- Flutter for mobile development
-- CI/CD automation and infrastructure as code
+- 📱 Flutter for professional cross-platform mobile development
+- 🌐 Advanced networking protocols and Cisco technologies
+- 🏗️ Software design patterns and system architecture
+- 🤖 Building intelligent applications with LangChain and AI
+- 🛡️ OSCP preparation and offensive security techniques
+- ⚙️ CI/CD pipelines and infrastructure automation
 
 ---
 
