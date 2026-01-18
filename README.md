@@ -1,109 +1,111 @@
 <div align="center">
   <h1>Sameer Baiju</h1>
-  <p>Full-Stack Developer • Security Enthusiast • Lifelong Learner</p>
+  <p>Developer • Security Researcher • Builder</p>
 </div>
 
 <div align="center">
   
-  ![](https://komarev.com/ghpvc/?username=sameer266&color=4c71f2&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=sameer266&color=7c3aed&style=flat-square)
   
 </div>
 
 ---
 
-## About Me
+## Hey there 👋
 
-Hey, I'm Sameer—a computer science student from Nepal with a deep curiosity for how things work and how to make them better.
+I'm Sameer, a computer science student based in Nepal who's genuinely obsessed with understanding how software works—and more importantly, how it breaks.
 
-I spend most of my time building web applications, experimenting with machine learning models, and exploring cybersecurity. I'm fascinated by the challenge of writing code that's not just functional, but secure, scalable, and maintainable. Whether it's designing a clean API, optimizing database queries, or pentesting a network, I'm driven by the process of solving complex problems.
+Most days you'll find me knee-deep in code, whether that's building full-stack web apps, tinkering with machine learning models, or trying to break into systems (ethically, of course). I get a kick out of that moment when everything clicks—when a complex architecture makes sense, when a vulnerability reveals itself, or when a piece of code does exactly what it's supposed to do.
 
-Beyond code, I love playing football. There's something about the strategy, teamwork, and unpredictability of the game that keeps me coming back—and honestly, it teaches me a lot about collaboration and staying sharp under pressure.
+Here's what really drives me: I don't just want to write code that works. I want to write code that's secure from the ground up, that scales gracefully, and that other developers can actually understand six months from now. Call it a healthy obsession with clean architecture and security-first thinking.
 
-I believe the best way to learn is by building. Every project is an opportunity to push my limits and try something new.
+When I'm not staring at a terminal, you'll probably find me on a football field. I've always loved the sport—the way it demands both individual skill and seamless teamwork. It's funny how much football has taught me about code: stay adaptable, communicate clearly, and sometimes the best play is the simplest one.
+
+I'm a big believer in learning by doing. Every project I take on is a chance to break something, fix it, and come out knowing more than I did before.
 
 ---
 
-## What I Work With
+## Tech I Work With
 
-**Languages**  
+**Core Languages**  
 Python • JavaScript • C++ • Java
 
-**Web Development**  
+**Web Stack**  
 Django • React • Node.js • Express • TailwindCSS
 
-**Mobile Development**  
+**Mobile**  
 Flutter • Dart
 
-**Data & Intelligence**  
+**Databases & ML**  
 PostgreSQL • MongoDB • MySQL • TensorFlow • PyTorch • LangChain
 
-**Security & Networks**  
-Kali Linux • Burp Suite • Wireshark • Cisco Routing & Switching
+**Security Tools**  
+Kali Linux • Burp Suite • Wireshark • Cisco IOS
 
-**DevOps & Infrastructure**  
+**DevOps**  
 Docker • Git • GitHub Actions • Jenkins • AWS • Linux
 
 ---
 
-## Areas of Focus
+## What I'm Focused On
 
-**Software Architecture**  
-I care deeply about how systems are structured. I study design patterns, practice SOLID principles, and think carefully about how to build applications that can grow without becoming unmaintainable. Microservices, clean separation of concerns, and thoughtful API design are all things I actively work on.
+**Building Secure Systems**  
+Security isn't something I bolt on at the end—it's baked into how I think about architecture. I spend time learning how attackers think, studying penetration testing methodologies, and understanding common vulnerabilities. Right now I'm working toward OSCP certification while practicing red team techniques. The goal isn't just to find holes in systems, but to build things that don't have those holes in the first place.
 
-**Cybersecurity & Red Teaming**  
-Security isn't an afterthought for me—it's part of the foundation. I practice penetration testing, study common vulnerabilities, and work on understanding how systems can be exploited so I can build them better. I'm currently preparing for OSCP and sharpening my red team skills.
+**Software Architecture That Scales**  
+I'm fascinated by the challenge of designing systems that can grow. That means diving into design patterns, understanding SOLID principles, and thinking hard about separation of concerns. I read about microservices, study API design, and try to write code that future me (and other developers) won't curse at. Good architecture is invisible when it works, but you feel it when it doesn't.
 
-**Object-Oriented Programming**  
-Writing clean, modular code is something I take seriously. I focus on encapsulation, polymorphism, abstraction, and all the principles that make code reusable and easy to reason about. Good OOP makes everything else easier.
+**Network Fundamentals**  
+Understanding how data actually moves between machines has changed how I think about building applications. I work with TCP/IP, routing protocols, and network security because whether you're deploying a web app or securing infrastructure, you need to know what's happening at the network level. It's the foundation everything else sits on.
 
-**Network Engineering**  
-Understanding how data moves across networks is critical for both development and security. I work with TCP/IP, routing protocols, network hardening, and infrastructure design to build systems that are reliable and secure from the ground up.
+**Clean, Maintainable Code**  
+I take object-oriented programming seriously. Encapsulation, polymorphism, abstraction—these aren't just buzzwords to me. They're tools for writing code that's modular, testable, and actually makes sense. I've learned the hard way that clever code isn't the same as good code. Readable always wins.
 
-**CI/CD & Automation**  
-I believe in automating repetitive tasks. I work with GitHub Actions and Jenkins to streamline deployments, run tests automatically, and keep development workflows efficient.
-
----
-
-## Currently Learning
-
-Right now, I'm diving deeper into:
-
-- Building intelligent applications with LangChain and exploring how LLMs can enhance real-world systems
-- Advanced software architecture patterns and system design for large-scale applications
-- Red team techniques, exploitation methodologies, and offensive security strategies
-- Cross-platform mobile development with Flutter to expand beyond web
-- Automated deployment pipelines and infrastructure as code
-- Advanced networking concepts, protocols, and security practices
+**Automation & CI/CD**  
+If I'm doing something more than twice, I'm thinking about how to automate it. I work with GitHub Actions and Jenkins to build pipelines that test code, catch bugs early, and deploy reliably. Good automation means I can focus on solving interesting problems instead of repetitive tasks.
 
 ---
 
-## GitHub Activity
+## What I'm Learning Now
+
+These are the things I'm actively diving into:
+
+- **LangChain & AI Applications** – Exploring how to build practical tools powered by large language models, not just experiments but things people can actually use
+- **Advanced System Design** – Studying how large-scale systems handle millions of users, how they stay reliable, and what design decisions make that possible
+- **Offensive Security** – Going deeper into exploitation techniques, understanding attack vectors, and preparing for OSCP
+- **Flutter Development** – Expanding beyond web to build cross-platform mobile apps that feel native
+- **Infrastructure as Code** – Learning to automate infrastructure deployment and management
+- **Network Security** – Understanding not just how networks work, but how to harden them against attacks
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4c71f2&icon_color=4c71f2&text_color=c9d1d9" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=4c71f2&text_color=c9d1d9" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed&text_color=e6edf3&ring_color=7c3aed" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer266&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6edf3" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer266&theme=dark&hide_border=true&background=0d1117&ring=4c71f2&fire=4c71f2&currStreakLabel=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameer266&theme=github-dark-blue&hide_border=true&background=0d1117&ring=7c3aed&fire=7c3aed&currStreakLabel=e6edf3&sideLabels=e6edf3" alt="GitHub Streak" />
 </div>
 
 ---
 
-## Get in Touch
+## Let's Talk
 
-I'm always open to interesting conversations, collaboration opportunities, or just talking about tech, security, or football.
+I'm always up for interesting conversations—whether it's about code, security, system design, or why football is the best sport (it is). If you're working on something cool or just want to chat about tech, reach out.
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-4c71f2?style=flat-square&logo=google-chrome&logoColor=white)](https://sameerbaiju.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4c71f2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-baiju-7a3054240/)
-[![Email](https://img.shields.io/badge/Email-4c71f2?style=flat-square&logo=gmail&logoColor=white)](mailto:sameerbaiju792@gmail.com)
+[![Website](https://img.shields.io/badge/sameerbaiju.com.np-7c3aed?style=flat-square&logo=google-chrome&logoColor=white)](https://sameerbaiju.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-baiju-7a3054240/)
+[![Email](https://img.shields.io/badge/sameerbaiju792@gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:sameerbaiju792@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with curiosity • Designed for impact • Always learning</sub>
+  <sub>Learning in public • Building with purpose • Securing by default</sub>
 </div>
