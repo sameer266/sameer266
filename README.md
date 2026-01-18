@@ -21,24 +21,30 @@
 ```javascript
 const sameer = {
   location: "Nepal 🇳🇵",
-  education: "Computer Science",
-  role: "Full-Stack Developer",
-  interests: ["Web Development", "Cybersecurity", "ML/AI", "System Design"],
-  currentFocus: "Building secure, scalable applications",
-  motto: "Code with purpose, secure by design"
+  education: "Computer Science Student",
+  role: "Full-Stack Developer & Security Enthusiast",
+  passions: ["Building scalable systems", "Breaking & securing things", "AI/ML exploration"],
+  skills: {
+    development: ["Web", "Mobile", "Backend", "Frontend"],
+    security: ["Red Teaming", "Penetration Testing", "Network Security"],
+    architecture: ["Microservices", "Design Patterns", "System Design"],
+    devOps: ["CI/CD", "Docker", "Automation"]
+  },
+  currentMission: "Crafting secure, efficient, and scalable solutions",
+  lifePhilosophy: "Learn by building, secure by design, iterate continuously"
 };
 ```
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎯 What I Do
+### 🚀 What Drives Me
 
-- 🔨 Building production-ready web applications with **Django** & **React**
-- 🤖 Exploring **LangChain** and AI-powered applications
-- 🔐 Practicing **red team operations** and penetration testing
-- 🏗️ Designing **software architectures** that scale
-- 🌐 Learning **network engineering** and infrastructure
-- 📱 Developing cross-platform apps with **Flutter**
+- 💡 **Problem Solver** - I love tackling complex challenges with elegant solutions
+- 🔐 **Security First** - Building with security in mind from day one
+- 🏗️ **Architecture Enthusiast** - Passionate about designing clean, maintainable systems
+- 🌱 **Continuous Learner** - Always exploring new technologies and methodologies
+- 🤝 **Team Player** - Believe in collaborative development and knowledge sharing
+- ⚡ **Performance Focused** - Writing efficient, optimized code is my thing
 
 ---
 
@@ -81,9 +87,15 @@ const sameer = {
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -92,32 +104,48 @@ const sameer = {
 
 ---
 
-## 🔐 Security & Architecture Focus
+## 🔐 Specialized Skills
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### Red Team Operations
-- Penetration testing methodologies
-- Vulnerability assessment & exploitation
-- Web application security testing
-- Network reconnaissance & enumeration
-- Social engineering awareness
+- 🎯 Penetration testing & exploitation
+- 🔍 Vulnerability assessment
+- 🌐 Web application security
+- 📡 Network reconnaissance
+- 🛡️ OWASP Top 10 mitigation
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### Software Architecture
-- Microservices design patterns
-- RESTful API architecture
-- Database design & optimization
-- Scalable system design
-- Clean code principles
+- 🏛️ Design patterns (GoF, SOLID)
+- 🔄 Microservices architecture
+- 📐 Clean code principles
+- 🗃️ Database design & normalization
+- ⚡ Performance optimization
+
+</td>
+<td width="33%">
+
+### Network Engineering
+- 🌐 TCP/IP protocol suite
+- 🔧 Routing & switching (Cisco)
+- 🔒 Network security hardening
+- 📊 Network monitoring & analysis
+- 🏗️ Infrastructure design
 
 </td>
 </tr>
 </table>
+
+### 💎 Object-Oriented Programming Expertise
+- ✅ **SOLID Principles** - Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, Dependency Inversion
+- 🎨 **Design Patterns** - Creational, Structural, and Behavioral patterns
+- 🧩 **Abstraction & Encapsulation** - Building modular, reusable components
+- 🔄 **Polymorphism & Inheritance** - Writing flexible, extensible code
 
 ---
 
@@ -168,21 +196,44 @@ const sameer = {
 </div>
 
 **Currently exploring:**
-- 🔗 LangChain for building intelligent applications
-- 🏗️ Advanced software design patterns and architecture
-- 🛡️ Offensive security techniques and OSCP preparation
-- 📱 Flutter for cross-platform mobile development
-- ⚙️ CI/CD pipelines and infrastructure automation
+- 🔗 **LangChain** - Building intelligent AI-powered applications
+- 🏗️ **Software Architecture** - Design patterns, SOLID principles, system design
+- 🛡️ **Red Team Operations** - Offensive security, penetration testing, OSCP prep
+- 📱 **Flutter Development** - Cross-platform mobile app development with Dart
+- ⚙️ **CI/CD Automation** - GitHub Actions, Jenkins, deployment pipelines
+- 🌐 **Network Engineering** - Advanced routing, network protocols, infrastructure design
+- 💻 **OOP Mastery** - Advanced object-oriented programming and clean code practices
 
 ---
 
-## 💡 Featured Projects
+## 🎓 Core Competencies
 
-Coming soon! Currently working on some exciting projects involving:
-- 🤖 AI-powered chatbot using LangChain
-- 🔐 Security vulnerability scanner
-- 🌐 Full-stack e-commerce platform
-- 📊 Real-time analytics dashboard
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/1336/1336494.png" width="48px" />
+        <br /><b>OOP Principles</b>
+        <br /><sub>SOLID, Design Patterns, Clean Architecture</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="48px" />
+        <br /><b>CI/CD Pipelines</b>
+        <br /><sub>GitHub Actions, Jenkins, Automation</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48px" />
+        <br /><b>Network Engineering</b>
+        <br /><sub>TCP/IP, Routing, Network Security</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="48px" />
+        <br /><b>Flutter Development</b>
+        <br /><sub>Cross-platform Mobile Apps</sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
