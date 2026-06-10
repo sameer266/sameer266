@@ -32,7 +32,7 @@
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 I'm a software developer from Nepal 🇳🇵 who believes in writing code that not only works but also tells a story. My passion lies in building systems that are secure, scalable, and actually make a difference. I'm constantly exploring the intersection of web development, mobile apps, AI/ML, and cybersecurity.
 
@@ -40,29 +40,29 @@ When I'm not coding, you'll find me learning something new, breaking things in m
 
 <img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🎯 What Drives Me:
+###  What Drives Me:
 
-**💻 Building:**
+** Building:**
 - Full-stack web apps with Django, FastAPI & React
 - Cross-platform mobile experiences with Flutter & React Native  
 - Intelligent applications powered by AI/ML and LangChain
 - Microservices architectures that scale gracefully
 - Automation scripts that save hours of manual work
 
-**🔐 Securing:**
+** Securing:**
 - Red team operations and ethical hacking
 - Finding security flaws before the bad actors do
 - Penetration testing web applications and networks
 - Threat modeling and security architecture
 
-**📚 Learning:**
+**Learning:**
 - Machine Learning and Deep Learning fundamentals
 - Advanced AI applications and LLM integration
 - Network engineering with Cisco technologies
 - System design patterns that stand the test of time
 - New frameworks, tools, and technologies
 
-**🎨 Creating:**
+** Creating:**
 - Clean, maintainable code that developers love to work with
 - Database designs that perform under pressure
 - RESTful APIs that are intuitive and well-documented
@@ -72,7 +72,7 @@ When I'm not coding, you'll find me learning something new, breaking things in m
 
 <div align="center">
 
-## 💼 Core Expertise
+##  Core Expertise
 
 <table>
 <tr>
@@ -89,7 +89,7 @@ When I'm not coding, you'll find me learning something new, breaking things in m
 <p>LangChain • TensorFlow<br/>PyTorch • LLMs<br/>Data Science</p>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔐-Security-red?style=for-the-badge" width="80px" alt="Security"/>
+<img src="https://img.shields.io/badge/-Security-red?style=for-the-badge" width="80px" alt="Security"/>
 <br/>
 <h3>Cybersecurity</h3>
 <p>Red Teaming<br/>Penetration Testing<br/>Security Analysis</p>
@@ -166,13 +166,13 @@ When I'm not coding, you'll find me learning something new, breaking things in m
 
 ---
 
-## 🎯 Current Focus Areas
+## Current Focus Areas
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🔐 Security & Red Teaming
+### Security & Red Teaming
 Working toward OSCP and mastering offensive security:
 - Advanced penetration testing
 - Web application security
@@ -184,7 +184,7 @@ Working toward OSCP and mastering offensive security:
 </td>
 <td width="33%" valign="top">
 
-### 🤖 AI/ML & Intelligent Systems
+### AI/ML & Intelligent Systems
 Diving deep into machine learning:
 - Deep learning with TensorFlow & PyTorch
 - LLM integration with LangChain
@@ -196,7 +196,7 @@ Diving deep into machine learning:
 </td>
 <td width="33%" valign="top">
 
-### 🏗️ System Design & Architecture
+###  System Design & Architecture
 Building systems that scale:
 - Microservices architecture
 - Distributed systems design
@@ -211,7 +211,7 @@ Building systems that scale:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer266&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" alt="GitHub Stats" />
@@ -230,7 +230,7 @@ Building systems that scale:
 
 ---
 
-## 🌱 Learning Journey
+## Learning Journey
 
 <div align="center">
   
@@ -264,7 +264,7 @@ Building systems that scale:
   </table>
 </div>
 
-### 📚 Currently Mastering:
+###  Currently Mastering:
 
 - 🤖 **Machine Learning & AI:** Deep learning, neural networks, LLMs, and practical AI applications
 - 📱 **Mobile Development:** Flutter for cross-platform excellence, React Native for JavaScript-based apps
@@ -278,7 +278,7 @@ Building systems that scale:
 
 <div align="center">
 
-## 💡 Philosophy
+## Philosophy
 
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
 
