@@ -43,7 +43,7 @@
 
 I'm a full-stack developer based in Kathmandu, Nepal, with 2+ years of experience shipping production ecommerce, marketplace, and booking platforms — and I'm now extending that into applied AI engineering.
 
-At **Gyrovi**, I work on the **Ella Baché Australia** client account, building Shopify backend systems and AI-integrated features: a personalised skin-quiz recommendation engine, AI-assisted skin-analysis tooling, and a back-in-stock notification system. That work has pulled me deep into LLM integration, AI agents, and retrieval-augmented generation — alongside the full-stack fundamentals I started with.
+At **Gyrovi**, I work on the **Ella Baché Australia** client account, building Shopify backend systems and AI-integrated features: a personalised skin-quiz recommendation engine, AI-assisted skin-analysis tooling, and a back-in-stock notification system. That work has pulled me deep into LLM integration, AI agents, and retrieval-augmented generation alongside the full-stack fundamentals I started with.
 
 Outside of work, I keep my security fundamentals sharp through hands-on TryHackMe practice, and I'm usually either automating something I'll only run once, or out playing football, badminton, table tennis, or pickleball.
 
