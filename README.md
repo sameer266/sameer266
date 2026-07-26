@@ -13,15 +13,15 @@
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║  sameer@devbox:~$ whoami                          ║
-║                                                    ║
-║  > Sameer Baiju                                   ║
-║  > Full-Stack Developer + AI Engineer             ║
-║  > Kathmandu, Nepal                                ║
-║  > 2+ years · Shopify · React · Django · LLMs     ║
-║  > Currently @Ella Baché Australia       ║
-║                                                    ║
-║  sameer@devbox:~$ _                                ║
+║  sameer@devbox:~$ whoami                         ║
+║                                                  ║
+║  > Sameer Baiju                                  ║
+║  > Full-Stack Developer + AI Engineer            ║
+║  > Kathmandu, Nepal                              ║
+║  > 2+ years · Shopify · React · Django · LLMs    ║
+║  > Currently @ Ella Baché Australia              ║
+║                                                  ║
+║  sameer@devbox:~$ _                              ║
 ╚══════════════════════════════════════════════════╝
 ```
 
